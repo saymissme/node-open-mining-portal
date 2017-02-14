@@ -32,6 +32,7 @@
     },
     "dependencies": {
         "stratum-pool": "git://github.com/saymissme/node-stratum-pool.git",
+        "bitcoin": "https://github.com/freewil/node-bitcoin",
         "dateformat": "*",
         "node-json-minify": "*",
         "redis": "*",
